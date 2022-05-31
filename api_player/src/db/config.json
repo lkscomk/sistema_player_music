@@ -1,0 +1,62 @@
+[
+   {
+      "id": 1,
+      "name": "Diamonds",
+      "arquivo": "Diamonds - Rihanna.mp3",
+      "capa": "Diamonds - Rihanna.png",
+      "artista": "Rihanna",
+      "duracaoText": "03:45",
+      "duracaoValue": 225.168,
+      "curtida": false
+   },
+   {
+      "id": 2,
+      "name": "Last Friday Night",
+      "arquivo": "Last Friday Night - Katy Perry.mp3",
+      "capa": "Last Friday Night - Katy Perry.png",
+      "artista": "Katy Perry",
+      "duracaoText": "03:50",
+      "duracaoValue": 230.928,
+      "curtida": false
+   },
+   {
+      "id": 3,
+      "name": "Shower",
+      "arquivo": "Shower - Becky G.mp3",
+      "capa": "Shower - Becky G.png",
+      "artista": "Becky G",
+      "duracaoText": "03:28",
+      "duracaoValue": 208.296,
+      "curtida": false
+   },
+   {
+      "id": 4,
+      "name": "Theres Nothing Holdin Me Back",
+      "arquivo": "There's Nothing Holdin  Me Back - Shawn Mendes.mp3",
+      "capa": "There's Nothing Holdin  Me Back - Shawn Mendes.png",
+      "artista": "Shawn Mendes",
+      "duracaoText": "03:19",
+      "duracaoValue": 199.152,
+      "curtida": false
+   },
+   {
+      "id": 5,
+      "name": "Closer",
+      "arquivo": "Closer - The Chainsmokers ft. Halsey.mp3",
+      "capa": "Closer - The Chainsmokers ft. Halsey.png",
+      "artista": "The Chainsmokers & Halsey",
+      "duracaoText": "04:21",
+      "duracaoValue": 261.816,
+      "curtida": false
+   },
+   {
+      "id": 6,
+      "name": "Versions of Me",
+      "arquivo": "Versions of Me - Anitta.mp3",
+      "capa": "Versions of Me - Anitta.png",
+      "artista": "Anitta",
+      "duracaoText": "03:04",
+      "duracaoValue": 184.032,
+      "curtida": false
+   }
+]
