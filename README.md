@@ -51,6 +51,9 @@ cd view_player
 npm install ou yarn
 npm run serve ou yarn serve
 ```
+
+## Deem uma olhada
+
 ![ex](https://github.com/lkscomk/sistema_player_music/blob/main/imgs/Screenshot_1.bmp)
 ![ex](https://github.com/lkscomk/sistema_player_music/blob/main/imgs/Screenshot_2.bmp)
 ![ex](https://github.com/lkscomk/sistema_player_music/blob/main/imgs/Screenshot_3.bmp)
